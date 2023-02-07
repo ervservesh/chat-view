@@ -1,3 +1,3 @@
 # chat-view
 
-Click to Visit Website: https://github.com/ervservesh/chat-view.git
+Click to Visit Website: https://ervservesh.github.io/chat-view/
